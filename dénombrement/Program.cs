@@ -68,7 +68,7 @@ namespace Denombrements
                 }
             }
             Console.ReadLine();
-        }
+        }//ok
     }
 }
 
